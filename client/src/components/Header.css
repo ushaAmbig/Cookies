@@ -1,0 +1,8 @@
+.header {
+    background-color: rgb(225, 0, 80);
+    color: white;
+}
+.header .navbar-brand {
+    color :white;
+    width: 80%;
+}
